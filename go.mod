@@ -1,1 +1,1 @@
-module common
+module github.com/YesVRC/YModManager-Common
